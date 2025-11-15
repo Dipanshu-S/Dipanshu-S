@@ -96,10 +96,12 @@ Building a secure, scalable, blockchain-recorded identity + safety framework tha
 <!-- Divider -->
 <p align="center"><img src="https://raw.githubusercontent.com/Dipanshu-s/asset-files/main/divider.gif" width="90%"/></p>
 
-## 🏅 Certifications & Achievements  
-- **IIT Kanpur – Cybersecurity Skilling Program (2023)**  
+## 🏅 Certifications & Achievements
+- **Google Cybersecurity Professional Certificate (Coursera)**  
 - **Guvi – Python Programming**  
-- **Infosys – Java Programming**  
+- **Infosys – Java Programming**
+- **Drone Technician Workshop at IIIT Nagpur** 
+- **IIT Kanpur – Cybersecurity Skilling Program (2023)**   
 - **NPTEL (IIT Madras) – Machine Learning Basics**  
 - **TechSaksham Internship – AI (Dec 2024 – Jan 2025)**  
 - **IBM SkillsBuild Internship – Security Analyst (Jan 2025 – Mar 2025)**  
